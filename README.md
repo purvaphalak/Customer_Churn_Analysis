@@ -25,11 +25,21 @@ Customer Churn Dataset : This dataset is from PwC Switzerland Virtual Internship
  ### Data Preparation
  
 Here's a quick rundown of the steps I took in the project:
-1️] **Data Preparation**: Ensured the data was clean, organized, and ready for analysis.
-2️] **Data Modeling:** Structured the data for effective analysis using Power BI.
-3️] **Data Analysis (DAX):** Leveraged DAX functions to dig deep into the numbers.
-4️] **Data Visualization (Dashboard):** Created visually compelling dashboards to make complex data easily understandable.
-5️] **Insights:** Unearthed some fascinating findings!
+
+1️] **Data Preparation**: 
+Ensured the data was clean, organized, and ready for analysis.
+
+2️] **Data Modeling:** 
+Structured the data for effective analysis using Power BI.
+
+3️] **Data Analysis (DAX):** 
+Leveraged DAX functions to dig deep into the numbers.
+
+4️] **Data Visualization (Dashboard):** 
+Created visually compelling dashboards to make complex data easily understandable.
+
+5️] **Insights:** 
+Unearthed some fascinating findings!
 
 ### Insights  
 
