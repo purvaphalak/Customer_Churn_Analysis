@@ -1,5 +1,7 @@
 # Customer Churn Analysis
 
+![Screenshot 2024-03-13 121559](https://github.com/purvaphalak/Customer_Churn_Analysis/assets/148857209/95f50561-44ac-416b-82d7-ca48316f5219)
+![Screenshot 2024-03-13 122217](https://github.com/purvaphalak/Customer_Churn_Analysis/assets/148857209/a2298073-860b-4e41-8747-e435ae37ec94)
 
 ## Table of Contents
 - [Project Overview](#project-overview)
