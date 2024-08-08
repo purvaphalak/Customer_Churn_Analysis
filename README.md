@@ -47,25 +47,37 @@ Unearthed some fascinating findings!
 ### Insights  
 
 1️] **Overview :**
-Total customers are 7043 with number of retained customers is 5174 & customers churned are 1869.
-•The rate of retained customers is 73.46% & the rate of churned customers is 26.54%, amounting to $16.06M yearly charges and $456.12K monthly charges.
-2955 tech tickets and 3632 admin tickets opened.
-•There are about 16.21% customers who are senior citizens & percentage of senior citizens in churned customers is 25.46%.
+
+• Total customers are 7043 with number of retained customers is 5174 & customers churned are 1869.
+
+• The rate of retained customers is 73.46% & the rate of churned customers is 26.54%, amounting to $16.06M yearly charges and $456.12K monthly charges.
+
+• 2955 tech tickets and 3632 admin tickets opened.
+
+• There are about 16.21% customers who are senior citizens & percentage of senior citizens in churned customers is 25.46%.
 
 2️] **Demographics :**
+
 •Churn rate is higher for customers who have opted for Internet Services. Customers with Fiber Optic services have higher churn rate that is 69.39%.
+
 • Average Tenure of customers is 32.37% & Average Tenure of churned customers is 17.89.
+
 • It is observed that, customers with low tenure are churned more.
 
 3️] **Subscription :**
+
 • Tech support should be improved more.
+
 • Company should focus on customers with shorter customers ass they are more likely to be churned.
+
 • As the churn rate is higher for internet services in fiber optic, telecom company should focus more on retaining those customers and improve in that area.
+
 • Customers should be subscribed to more services & plans with longer tenures which are offered by the company's.
 
 ### Recommendations:
 
 Based on the analysis, here are some actionable recommendations:
+
 1. Encourage customers to subscribe to One-Year and Two-Year contracts, offering incentives to mitigate the higher monthly costs.
 2. Implement targeted discounts for Month-to-Month subscribers to enhance retention.
 3. Educate customers on the benefits of signing up for Online Security and Tech Support to improve service stickiness.
